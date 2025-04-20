@@ -1,0 +1,3 @@
+/data/bin/study/build/CMakeFiles/MyMuduo.dir
+/data/bin/study/build/CMakeFiles/edit_cache.dir
+/data/bin/study/build/CMakeFiles/rebuild_cache.dir
